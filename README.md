@@ -12,6 +12,11 @@ see how they work and if they are damaged try to repair them and make em work ag
 - 📸 Instagram: @espi_t_117
 - 🤖 Reddit: GrantedGosling6
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-espinosa-tirado-391aa2210/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 ---
 
 <div align="center">

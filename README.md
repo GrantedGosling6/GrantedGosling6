@@ -1,5 +1,16 @@
 # Hi there 👋, I'm Gosling, but you can call me Fernando!
 
+As my coding I'll make this fast and easy...
+
+I'm someone who enjoys and loves his career, likes to discover and learn new things, on my free time I love to teardown gadgets
+see how they work and if they are damaged try to repair them and make em work again. 
+
+- 📚 I'm currently studying college 
+- 🌱 I’m currently learning computer science 
+- 🤔 I’m looking for help with python 
+- 📫 How to reach me: jfespinosa@ujsierra.com.mx
+- 📸 Instagram: @espi_t_117
+- 🤖 Reddit: GrantedGosling6
 
 
 <!--

@@ -12,12 +12,19 @@ see how they work and if they are damaged try to repair them and make em work ag
 - 📸 Instagram: @espi_t_117
 - 🤖 Reddit: GrantedGosling6
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrantedGosling6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Uqw7f8I9UDiuE2tu1H/giphy.gif" width="100"/>
 </div>
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=GrantedGosling6
 
 public class AboutMe{
     

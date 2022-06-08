@@ -12,6 +12,8 @@ see how they work and if they are damaged try to repair them and make em work ag
 - 📸 Instagram: @espi_t_117
 - 🤖 Reddit: GrantedGosling6
 
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>

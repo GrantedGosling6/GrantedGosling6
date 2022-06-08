@@ -18,18 +18,16 @@ see how they work and if they are damaged try to repair them and make em work ag
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
-
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrantedGosling6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GrantedGosling6&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 
 public class AboutMe{
     
@@ -64,6 +62,8 @@ public class AboutMe{
         }
 
 }
+
+---
 
 ### :hammer_and_wrench: Languages:
 

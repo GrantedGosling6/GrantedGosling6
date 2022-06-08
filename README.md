@@ -13,6 +13,22 @@ see how they work and if they are damaged try to repair them and make em work ag
 - 🤖 Reddit: GrantedGosling6
 
 
+public class SobreMi {
+    
+    public static void main(String[] args) {
+        String lenguajes [] = new String[3];
+		   lenguajes[0] = "Python";
+               lenguajes[1] = "C";
+		   lenguajes[2] = "C++";
+               lenguajes[3] = "Java";
+
+        for (int i = 0; i < lenguajes.length; i++) {
+            System.out.println("Lenguaje["+(i+1)+"] "+ numeros[i]);
+        }
+
+}
+
+
 <!--
 **GrantedGosling6/GrantedGosling6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

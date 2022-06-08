@@ -12,6 +12,9 @@ see how they work and if they are damaged try to repair them and make em work ag
 - 📸 Instagram: @espi_t_117
 - 🤖 Reddit: GrantedGosling6
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Uqw7f8I9UDiuE2tu1H/giphy.gif" width="100"/>
+</div>
 
 public class AboutMe{
     
@@ -48,10 +51,6 @@ public class AboutMe{
 }
 
 ### :hammer_and_wrench: Languages:
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Uqw7f8I9UDiuE2tu1H/giphy.gif" width="100"/>
-</div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

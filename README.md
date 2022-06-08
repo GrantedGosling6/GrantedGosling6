@@ -13,21 +13,41 @@ see how they work and if they are damaged try to repair them and make em work ag
 - 🤖 Reddit: GrantedGosling6
 
 
-public class SobreMi {
+public class AboutMe{
     
     public static void main(String[] args) {
-        String lenguajes [] = new String[3];
-		   lenguajes[0] = "Python";
-               lenguajes[1] = "C";
-		   lenguajes[2] = "C++";
-               lenguajes[3] = "Java";
+        String coding [] = new String[4];
+		 coding[0] = "Python";
+                 coding[1] = "C";
+		 coding[2] = "C++";
+                 coding[3] = "Java";
+		 
+	 String skills [] = new String[2];
+	          skills[0] = "Mecánico automotriz";
+		  skills[1] = "Impresión 3D";
+		  
+	String language [] = new String[2];
+	          language[0] = "Espaniol";
+		  language[1] = "English";
+		  
 
-        for (int i = 0; i < lenguajes.length; i++) {
-            System.out.println("Lenguaje["+(i+1)+"] "+ numeros[i]);
+        for (int i = 0; i < coding.length; i++) {
+            System.out.println("Coding["+(i+1)+"] "+ coding[i]);
+        }
+	
+	
+        for (int i = 0; i < skills.length; i++) {
+            System.out.println("Skills["+(i+1)+"] "+ skills[i]);
+        }
+	
+	
+        for (int i = 0; i < language.length; i++) {
+            System.out.println("Language["+(i+1)+"] "+ language[i]);
         }
 
 }
 
+### :hammer_and_wrench: Languages:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Uqw7f8I9UDiuE2tu1H/giphy.gif" width="100"/>
